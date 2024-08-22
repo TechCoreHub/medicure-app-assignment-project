@@ -17,4 +17,4 @@
        enabled : true
 
    - name: deploy to test server medicure app
-     command: docker run -itd -p 8084:8084 dockerhubnovice/medicure-app-assignment-project-docker:4.0
+     command: docker run -itd -p 8083:8082 dockerhubnovice/medicure-app-assignment-project:1.0
